@@ -1,0 +1,32 @@
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\bin\Debug\BetaMartDB.accdb
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\bin\Debug\UKK_BetaMart.exe.config
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\bin\Debug\UKK_BetaMart.exe
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\bin\Debug\UKK_BetaMart.pdb
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.Form1.resources
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.Properties.Resources.resources
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.exe
+C:\Users\HP\source\repos\UKK_BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.pdb
+D:\UKK BESOK\betamart\UKK_BetaMart\bin\Debug\BetaMartDB.accdb
+D:\UKK BESOK\betamart\UKK_BetaMart\bin\Debug\UKK_BetaMart.exe.config
+D:\UKK BESOK\betamart\UKK_BetaMart\bin\Debug\UKK_BetaMart.exe
+D:\UKK BESOK\betamart\UKK_BetaMart\bin\Debug\UKK_BetaMart.pdb
+D:\UKK BESOK\betamart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csprojAssemblyReference.cache
+D:\UKK BESOK\betamart\UKK_BetaMart\obj\Debug\UKK_BetaMart.Form1.resources
+D:\UKK BESOK\betamart\UKK_BetaMart\obj\Debug\UKK_BetaMart.Properties.Resources.resources
+D:\UKK BESOK\betamart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csproj.GenerateResource.cache
+D:\UKK BESOK\betamart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csproj.CoreCompileInputs.cache
+D:\UKK BESOK\betamart\UKK_BetaMart\obj\Debug\UKK_BetaMart.exe
+D:\UKK BESOK\betamart\UKK_BetaMart\obj\Debug\UKK_BetaMart.pdb
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\bin\Debug\UKK_BetaMart.exe.config
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\bin\Debug\UKK_BetaMart.exe
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\bin\Debug\UKK_BetaMart.pdb
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csproj.AssemblyReference.cache
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.Form1.resources
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.Properties.Resources.resources
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csproj.GenerateResource.cache
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.csproj.CoreCompileInputs.cache
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.exe
+D:\12 RPL 3\Bu Berlian\ukk betamart\BetaMart\UKK_BetaMart\obj\Debug\UKK_BetaMart.pdb
